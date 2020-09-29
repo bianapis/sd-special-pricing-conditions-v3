@@ -1,0 +1,22 @@
+{
+  "specialPricingConditionsDirectoryEntryStatus" : "specialPricingConditionsDirectoryEntryStatus",
+  "specialPricingConditionsDirectoryEntryUsageLog" : "specialPricingConditionsDirectoryEntryUsageLog",
+  "specialPricingConditionsDirectoryEntryInstanceReportRecord" : {
+    "specialPricingConditionsDirectoryEntryInstanceReportData" : "specialPricingConditionsDirectoryEntryInstanceReportData",
+    "specialPricingConditionsDirectoryEntryInstanceReport" : {},
+    "specialPricingConditionsDirectoryEntryInstanceReportType" : "specialPricingConditionsDirectoryEntryInstanceReportType"
+  },
+  "specialPricingConditionsDirectoryEntryDescription" : "specialPricingConditionsDirectoryEntryDescription",
+  "specialPricingConditionsDirectoryEntryVersion" : "specialPricingConditionsDirectoryEntryVersion",
+  "specialPricingConditionsDirectoryEntryServiceConfiguration" : "specialPricingConditionsDirectoryEntryServiceConfiguration",
+  "specialPricingConditionsDirectoryEntryRetrieveActionResponse" : "specialPricingConditionsDirectoryEntryRetrieveActionResponse",
+  "specialPricingConditionsDirectoryEntryUpdateLog" : "specialPricingConditionsDirectoryEntryUpdateLog",
+  "specialPricingConditionsDirectoryEntrySchedule" : "specialPricingConditionsDirectoryEntrySchedule",
+  "specialPricingConditionsDirectoryEntryRetrieveActionTaskReference" : "SPCDERATR702000",
+  "specialPricingConditionsDirectoryEntryRetrieveActionTaskRecord" : {},
+  "specialPricingConditionsDirectoryEntryInstanceAnalysis" : {
+    "specialPricingConditionsDirectoryEntryInstanceAnalysisData" : "specialPricingConditionsDirectoryEntryInstanceAnalysisData",
+    "specialPricingConditionsDirectoryEntryInstanceAnalysisReport" : {},
+    "specialPricingConditionsDirectoryEntryInstanceAnalysisReportType" : "specialPricingConditionsDirectoryEntryInstanceAnalysisReportType"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "specialPricingtermsServiceType" : "specialPricingtermsServiceType",
+  "specialPricingtermsServiceInputsandOuputs" : "specialPricingtermsServiceInputsandOuputs",
+  "pricingTermsInstanceReference" : "PTIR756263",
+  "pricingTermsPreconditions" : "pricingTermsPreconditions",
+  "specialPricingterms" : "specialPricingterms",
+  "specialPricingtermsServiceWorkProduct" : "specialPricingtermsServiceWorkProduct",
+  "specialPricingtermsServiceDescription" : "specialPricingtermsServiceDescription",
+  "pricingTermsInitiateActionRecord" : {},
+  "pricingTermsPropertySchedule" : "pricingTermsPropertySchedule",
+  "pricingTermsInitiateActionReference" : "PTIAR728434",
+  "pricingTermsInstanceStatus" : "pricingTermsInstanceStatus",
+  "pricingTermsVersionNumber" : "pricingTermsVersionNumber"
+}

@@ -1,0 +1,25 @@
+{
+  "specialPricingtermsServiceType" : "specialPricingtermsServiceType",
+  "pricingTermsRetrieveActionResponse" : "pricingTermsRetrieveActionResponse",
+  "specialPricingtermsServiceDescription" : "specialPricingtermsServiceDescription",
+  "pricingTermsPropertySchedule" : "pricingTermsPropertySchedule",
+  "pricingTermsInstanceAnalysis" : {
+    "pricingTermsInstanceAnalysisRecord" : {},
+    "pricingTermsInstanceAnalysisParameters" : "pricingTermsInstanceAnalysisParameters",
+    "pricingTermsInstanceAnalysisReportType" : "pricingTermsInstanceAnalysisReportType",
+    "pricingTermsInstanceAnalysisReport" : {}
+  },
+  "pricingTermsVersionNumber" : "pricingTermsVersionNumber",
+  "specialPricingtermsServiceInputsandOuputs" : "specialPricingtermsServiceInputsandOuputs",
+  "pricingTermsPreconditions" : "pricingTermsPreconditions",
+  "specialPricingterms" : "specialPricingterms",
+  "specialPricingtermsServiceWorkProduct" : "specialPricingtermsServiceWorkProduct",
+  "pricingTermsRetrieveActionTaskReference" : "PTRATR760690",
+  "pricingTermsRetrieveActionTaskRecord" : {},
+  "pricingTermsInstanceReport" : {
+    "pricingTermsInstanceReportParameters" : "pricingTermsInstanceReportParameters",
+    "pricingTermsInstanceReport" : {},
+    "pricingTermsInstanceReportType" : "pricingTermsInstanceReportType",
+    "pricingTermsInstanceReportRecord" : {}
+  }
+}

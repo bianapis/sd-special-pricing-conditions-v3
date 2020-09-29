@@ -1,0 +1,12 @@
+{
+  "specialPricingConditionsDirectoryEntryStatus" : "specialPricingConditionsDirectoryEntryStatus",
+  "specialPricingConditionsDirectoryEntryUsageLog" : "specialPricingConditionsDirectoryEntryUsageLog",
+  "specialPricingConditionsDirectoryEntryExecuteActionTaskRecord" : {},
+  "executeRecordReference" : "ERR753149",
+  "specialPricingConditionsDirectoryEntryVersion" : "specialPricingConditionsDirectoryEntryVersion",
+  "specialPricingConditionsDirectoryEntryServiceConfiguration" : "specialPricingConditionsDirectoryEntryServiceConfiguration",
+  "executeResponseRecord" : {},
+  "specialPricingConditionsDirectoryEntryExecuteActionTaskReference" : "SPCDEEATR780859",
+  "specialPricingConditionsDirectoryEntryUpdateLog" : "specialPricingConditionsDirectoryEntryUpdateLog",
+  "specialPricingConditionsDirectoryEntrySchedule" : "specialPricingConditionsDirectoryEntrySchedule"
+}

@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordControlRecordPortfolioAnalysis;
+import org.bian.dto.SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordSpecialPricingConditionsActivityAnalysis;
+import org.bian.dto.SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordSpecialPricingConditionsPerformanceAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecord
+ */
+public class SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecord   {
+  private SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordSpecialPricingConditionsActivityAnalysis specialPricingConditionsActivityAnalysis = null;
+
+  private SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordSpecialPricingConditionsPerformanceAnalysis specialPricingConditionsPerformanceAnalysis = null;
+
+  private SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get specialPricingConditionsActivityAnalysis
+   * @return specialPricingConditionsActivityAnalysis
+  **/
+
+  public SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordSpecialPricingConditionsActivityAnalysis getSpecialPricingConditionsActivityAnalysis() {
+    return specialPricingConditionsActivityAnalysis;
+  }
+
+  public void setSpecialPricingConditionsActivityAnalysis(SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordSpecialPricingConditionsActivityAnalysis specialPricingConditionsActivityAnalysis) {
+    this.specialPricingConditionsActivityAnalysis = specialPricingConditionsActivityAnalysis;
+  }
+
+
+  /**
+   * Get specialPricingConditionsPerformanceAnalysis
+   * @return specialPricingConditionsPerformanceAnalysis
+  **/
+
+  public SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordSpecialPricingConditionsPerformanceAnalysis getSpecialPricingConditionsPerformanceAnalysis() {
+    return specialPricingConditionsPerformanceAnalysis;
+  }
+
+  public void setSpecialPricingConditionsPerformanceAnalysis(SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordSpecialPricingConditionsPerformanceAnalysis specialPricingConditionsPerformanceAnalysis) {
+    this.specialPricingConditionsPerformanceAnalysis = specialPricingConditionsPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDSpecialPricingConditionsRetrieveInputModelSpecialPricingConditionsRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+

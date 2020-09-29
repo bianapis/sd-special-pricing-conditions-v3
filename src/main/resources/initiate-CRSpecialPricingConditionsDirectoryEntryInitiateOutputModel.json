@@ -1,0 +1,12 @@
+{
+  "specialPricingConditionsDirectoryEntryStatus" : "specialPricingConditionsDirectoryEntryStatus",
+  "specialPricingConditionsDirectoryEntryUsageLog" : "specialPricingConditionsDirectoryEntryUsageLog",
+  "specialPricingConditionsDirectoryEntryInitiateActionReference" : "SPCDEIAR740046",
+  "specialPricingConditionsDirectoryEntryVersion" : "specialPricingConditionsDirectoryEntryVersion",
+  "specialPricingConditionsDirectoryEntryServiceConfiguration" : "specialPricingConditionsDirectoryEntryServiceConfiguration",
+  "specialPricingConditionsDirectoryEntryInstanceReference" : "SPCDEIR745648",
+  "specialPricingConditionsDirectoryEntryInstanceStatus" : "specialPricingConditionsDirectoryEntryInstanceStatus",
+  "specialPricingConditionsDirectoryEntryUpdateLog" : "specialPricingConditionsDirectoryEntryUpdateLog",
+  "specialPricingConditionsDirectoryEntrySchedule" : "specialPricingConditionsDirectoryEntrySchedule",
+  "specialPricingConditionsDirectoryEntryInitiateActionRecord" : {}
+}

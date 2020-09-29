@@ -1,0 +1,1 @@
+# Special Pricing Conditions Service Domain v3

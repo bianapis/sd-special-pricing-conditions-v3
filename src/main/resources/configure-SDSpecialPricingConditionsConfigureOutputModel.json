@@ -1,0 +1,21 @@
+{
+  "specialPricingConditionsConfigurationActionTaskRecord" : {},
+  "specialPricingConditionsServicingSessionStatus" : "specialPricingConditionsServicingSessionStatus",
+  "specialPricingConditionsConfigurationActionTaskReference" : "SCATR765419",
+  "specialPricingConditionsServiceConfigurationRecord" : {
+    "specialPricingConditionsServiceAgreement" : {
+      "specialPricingConditionsServiceUserReference" : "733696",
+      "specialPricingConditionsServiceAgreementReference" : "721156",
+      "specialPricingConditionsServiceAgreementTermsandConditions" : "specialPricingConditionsServiceAgreementTermsandConditions"
+    },
+    "specialPricingConditionsServiceConfigurationSettingDescription" : "specialPricingConditionsServiceConfigurationSettingDescription",
+    "specialPricingConditionsServiceConfigurationSetup" : {
+      "specialPricingConditionsServiceConfigurationParameter" : "specialPricingConditionsServiceConfigurationParameter"
+    },
+    "specialPricingConditionsServiceStatus" : "specialPricingConditionsServiceStatus",
+    "specialPricingConditionsServiceSubscription" : {
+      "specialPricingConditionsServiceSubscriberReference" : "756221",
+      "specialPricingConditionsServiceSubscriberAccessProfile" : "specialPricingConditionsServiceSubscriberAccessProfile"
+    }
+  }
+}

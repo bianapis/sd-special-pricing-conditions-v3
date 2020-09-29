@@ -1,0 +1,13 @@
+{
+  "specialPricingtermsServiceType" : "specialPricingtermsServiceType",
+  "specialPricingtermsServiceInputsandOuputs" : "specialPricingtermsServiceInputsandOuputs",
+  "pricingTermsPreconditions" : "pricingTermsPreconditions",
+  "specialPricingterms" : "specialPricingterms",
+  "specialPricingtermsServiceWorkProduct" : "specialPricingtermsServiceWorkProduct",
+  "specialPricingtermsServiceDescription" : "specialPricingtermsServiceDescription",
+  "pricingTermsPropertySchedule" : "pricingTermsPropertySchedule",
+  "updateResponseRecord" : {},
+  "pricingTermsVersionNumber" : "pricingTermsVersionNumber",
+  "pricingTermsUpdateActionTaskReference" : "PTUATR793622",
+  "pricingTermsUpdateActionTaskRecord" : {}
+}

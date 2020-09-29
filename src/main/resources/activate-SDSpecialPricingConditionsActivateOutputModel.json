@@ -1,0 +1,24 @@
+{
+  "specialPricingConditionsServicingSessionReference" : "SSSR783215",
+  "specialPricingConditionsServicingSessionStatus" : "specialPricingConditionsServicingSessionStatus",
+  "specialPricingConditionsActivationActionTaskReference" : "SAATR758836",
+  "specialPricingConditionsActivationActionTaskRecord" : {},
+  "specialPricingConditionsServicingSessionRecord" : {},
+  "specialPricingConditionsServiceConfigurationRecord" : {
+    "specialPricingConditionsServiceAgreement" : {
+      "specialPricingConditionsServiceUserReference" : "767210",
+      "specialPricingConditionsServiceAgreementReference" : "791202",
+      "specialPricingConditionsServiceAgreementTermsandConditions" : "specialPricingConditionsServiceAgreementTermsandConditions"
+    },
+    "specialPricingConditionsServiceConfigurationSettingReference" : "700761",
+    "specialPricingConditionsServiceConfigurationSettingDescription" : "specialPricingConditionsServiceConfigurationSettingDescription",
+    "specialPricingConditionsServiceConfigurationSetup" : {
+      "specialPricingConditionsServiceConfigurationParameter" : "specialPricingConditionsServiceConfigurationParameter"
+    },
+    "specialPricingConditionsServiceStatus" : "specialPricingConditionsServiceStatus",
+    "specialPricingConditionsServiceSubscription" : {
+      "specialPricingConditionsServiceSubscriberReference" : "769192",
+      "specialPricingConditionsServiceSubscriberAccessProfile" : "specialPricingConditionsServiceSubscriberAccessProfile"
+    }
+  }
+}

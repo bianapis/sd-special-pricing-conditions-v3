@@ -1,0 +1,9 @@
+{
+  "specialPricingConditionsFeedbackActionTaskReference" : "SFATR765157",
+  "specialPricingConditionsFeedbackActionTaskRecord" : {},
+  "specialPricingConditionsFeedbackActionRecord" : {
+    "employeeBusinessUnitReference" : "769031",
+    "feedbackRecordStatus" : "feedbackRecordStatus",
+    "feedbackRecordDateTime" : "09-22-2018"
+  }
+}

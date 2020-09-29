@@ -1,0 +1,39 @@
+{
+  "specialPricingConditionsRetrieveActionTaskReference" : "SRATR795161",
+  "specialPricingConditionsOfferedService" : {
+    "specialPricingConditionsServiceReference" : "776158",
+    "specialPricingConditionsServiceRecord" : {
+      "specialPricingConditionsServiceType" : "specialPricingConditionsServiceType",
+      "specialPricingConditionsServiceDescription" : "specialPricingConditionsServiceDescription",
+      "specialPricingConditionsServicePoliciesandGuidelines" : {
+        "specialPricingConditionsServiceEligibility" : "specialPricingConditionsServiceEligibility",
+        "specialPricingConditionsServicePricingandTerms" : "specialPricingConditionsServicePricingandTerms",
+        "specialPricingConditionsServiceIntendedUses" : "specialPricingConditionsServiceIntendedUses"
+      },
+      "specialPricingConditionsServiceSchedule" : "specialPricingConditionsServiceSchedule",
+      "specialPricingConditionsServiceVersion" : "specialPricingConditionsServiceVersion"
+    }
+  },
+  "specialPricingConditionsRetrieveActionTaskRecord" : {},
+  "specialPricingConditionsRetrieveActionRecord" : {
+    "specialPricingConditionsPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "specialPricingConditionsActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "specialPricingConditionsRetrieveActionResponse" : "specialPricingConditionsRetrieveActionResponse"
+}
